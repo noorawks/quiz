@@ -1,9 +1,5 @@
 @extends('layout.admin.master')
 
-@section('custom-css')
-    <link rel="stylesheet" href="{{ asset('AdminLTE/plugins/summernote/summernote-bs4.min.css') }}">
-@endsection
-
 @section('content')
     <section class="content-header">
         <div class="container-fluid">

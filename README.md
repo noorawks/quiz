@@ -1,6 +1,6 @@
 # Quiz Apps
 - PHP 7.3.14
-- Laravel 6.20.44
+- Laravel 8
 - Axios
 - Vue JS
 
